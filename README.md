@@ -33,6 +33,7 @@ This repository houses a collection of projects that I developed during my MSc s
    2. [Project 2: Predicting lung and colon cancer using computer vision](link)
    3. [Project 3: Fuel consumption rating project](https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64/resource/80894b62-7b45-4150-946d-ab756814c4be)
    4. [Project 4: Emergency Vehicle Identification](https://www.kaggle.com/datasets/abhisheksinghblr/emergency-vehicles-identification?resource=download)
+
 Explore each project's directory for in-depth information, code, and results.
 
 ## Getting Started
