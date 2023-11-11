@@ -24,7 +24,7 @@ This repository houses a collection of projects that I developed during my MSc s
 
 📂 **Project List:**
    1. [Project 1: The Census Project](https://github.com/Nnadieto/My-Projects/tree/a787df67a002a5db1ee9e32f8d31c18313f4a708/Project%201)
-   2. [Project 2: Predicting lung and colon cancer using computer vision](link_to_project2)
+   2. [Project 2: Predicting lung and colon cancer using computer vision](https://github.com/Nnadieto/My-Projects/tree/69ff74545fdd465877df6c1850fe575745a3e6e3/Project%202)
    3. [Project 3: Fuel consumption rating project](link_to_project3)
 
 Explore each project's directory for in-depth information, code, and results.
