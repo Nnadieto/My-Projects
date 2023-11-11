@@ -23,7 +23,7 @@ This repository houses a collection of projects that I developed during my MSc s
 ## Projects
 
 📂 **Project List:**
-   1. [Project 1: The Census Project](link_to_project1)
+   1. [Project 1: The Census Project](Project 1)
    2. [Project 2: Predicting lung and colon cancer using computer vision](link_to_project2)
    3. [Project 3: Fuel consumption rating project](link_to_project3)
 
