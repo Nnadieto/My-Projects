@@ -27,7 +27,7 @@ This repository houses a collection of projects that I developed during my MSc s
    2. [Project 2: Predicting lung and colon cancer using computer vision](https://github.com/Nnadieto/My-Projects/tree/69ff74545fdd465877df6c1850fe575745a3e6e3/Project%202)
    3. [Project 3: Fuel consumption rating project](https://github.com/Nnadieto/My-Projects/tree/b15289f1c9680a3bdfbc744255d4fbc752114173/Project%203)
    4. [Project 4: Emergency Vehicle Identification](https://github.com/Nnadieto/My-Projects/tree/87c68284dd7865fef8a47f2417d1e469ae91af18/Project%204)
-   5. [Project 5: The Titanic Survival Analysis](https://github.com/Nnadieto/My-Projects/tree/cd94645373e6c1dbc81af233c45cb3b33f5769a6/Excel%20Projects)
+   5. [Project 5: The Titanic Survival Analysis](https://github.com/Nnadieto/My-Projects/tree/489be5c55a9a6832cdeb6a157bce973abbb40209/Project%205)
    6. [Project 5: Instanbul Shopping malls analysis](https://github.com/Nnadieto/My-Projects/tree/ca7d3439e17f414d3f6860fc4c07975ff29ce0e1/Project%206)
 
 📂 **Datasets:**
